@@ -1,0 +1,1 @@
+../../courses_s_2022/phy220/python_notebooks/week3_fileIO/parab_t_and_y_100k.txt

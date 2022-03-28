@@ -1,0 +1,1 @@
+../../courses_s_2022/phy220/python_notebooks/week5_fitting/cobe_cmb_data.txt
