@@ -2,10 +2,14 @@
 
 ### Hello!  
 
-The files in this repo comprise syllabus, tutorial notebooks, and data files from **PHY 220** *Introduction to Computation for the Physical Sciences* at Washington & Jefferson College.
+The files in this repo comprise syllabus, tutorial notebooks, and data files from **PHY 220** *Introduction to Computation for the Physical Sciences* at [Washington & Jefferson College](https://www.washjeff.edu/).
 These materials build on a computational physics laboratory course that was offered annually from 2014 to 2021.
 PHY 220 was first offered as a stand-alone course in the Spring 2022 semester, and will be taught annually thereafter.
 Files in this repository should be updated at least as frequently as the course is taught until they achieve educational and literary perfection.
+
+Here is the course description for PHY 220, the copy that "attracts" students to the course:
+
+> Computing has become an integral part of knowledge generation in many areas of the natural and behavioral sciences. Computing drives the cutting-edge research in diverse fields such as protein folding, astrophysics and cosmology, dynamic properties of molecules, and artificial intelligence. This course is an introduction to fundamental computing concepts and programming skills relevant to the quantitative sciences. Students will investigate techniques such as iteration, recursion, functions, data I/O, data visualization, curve fitting, and simulation in an interactive laboratory setting. PHY 220 is intended to prepare students to leverage computational techniques in courses, research, and careers.
 
 ### Audience
 
