@@ -28,7 +28,7 @@ In short, it's not too difficult to make a class that is meaningful for a divers
 The course takes a "software carpentry" approach, covering several types of techniques in a way that builds "capability" rather than "proficiency" or "expertise".  For example, after taking the course, a student might not be able to sit down and independently bang out an Euler algorithm for a second-order partial differential equation, but she should be able to do some light Googling, read other people's code, and cobble together an Euler implementation that works for her particular application.  This early skills approach is part of a larger effort in the department to prepare students for meaningful research and internships as early as possible in the college career.
 
 The student learning objectives are given in the syllabus, but they are worth reproducing here:
-use basic control structures (loops and conditionals)
+- use basic control structures (loops and conditionals)
 - write and use functions
 - read, plot, and write data
 - fit functions/models to data and histograms
