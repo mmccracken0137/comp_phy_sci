@@ -22,10 +22,17 @@ In the Physics Major at W&J, these skills are reinforced and expanded in courses
 
 ### Course structure
 
-Ideally this course will meet weekly or twice weekly for a combined 180 minutes.  Each week of class centers on a new skill or set of skills
+Ideally this course will meet weekly or twice weekly for a combined 180 minutes.  Each week of class centers on a new skill or set of skills introduced in a single interactive python notebook.  Homework problems are provided at the end of each notebook.
 
 ### Topics/curriculum
 
+- Week 1: Basics, computer as a \\$2k calculator
+- Week 2: Control structures
+- Week 3: Data types, containers, lists
+- Week 4: File I/O
+- Week 5: Data visualization with `matplotlib`
+- Week 6: Text as data, forming and testing hypotheses
+- Week 7: Numerical simulations of ordinary differential equations
 
 ### Getting started
 
@@ -34,11 +41,6 @@ These materials use `python`, but the skills and structure of the course could e
 Installing the [Anaconda python](https://www.anaconda.com/) distribution maintained by Contiuum is the easiest way to get all of the necessary packages.  The code contained in this repo will work with any python version 3.6 or higher.
 
 To get started, open Jupyter Lab from Anaconda Launcher, and use the file browser in the left pane to navigate to and open any of the `.ipynb` files in this repository.
-
-### Notebook structure
-
-
-###
 
 
 ### License
