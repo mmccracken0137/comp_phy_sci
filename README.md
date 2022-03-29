@@ -13,16 +13,34 @@ Here is the course description for PHY 220, the copy that "attracts" students to
 
 ### Audience
 
-PHY 220 is required of all physics and engineering students in their first or second years of study.  The course is also intended for students majoring in chemistry, biology, mathematics, economics, or any other field where intermediate quantitative literacy and basic programming skills related to data science could be an asset.  
+PHY 220 is a 2-credit (*i.e.*, half) course required of all physics and engineering students in their first or second years of study.  The course is also intended for students majoring in chemistry, biology, mathematics, economics, or any other field where intermediate quantitative literacy and basic programming skills related to data science could be an asset.  
 
 For a significant fraction of our students PHY 220 is a first experience using a computer outside of the MS Office suite.  Other students who take PHY 220, however, have some (and in some cases quite extensive) prior programming experience.  I think that it's possible to present an impactful experience for both of these groups.
-For the n00bs, material is presented in a "let's not get bogged down in the details -- let's focus on what computers can *do*" TKTKTK.
+
+For the n00bs, material is presented in a "let's not get bogged down in the details -- let's focus on what computers can *do*".  It's pretty easy to create a high-impact course for these students that increases their confidence and leaves them with many transferrable skills.
+
+For the students who are seasoned programmers, I've found that few of them have used computers to investigate quantitative problems.  Many of these students have experience coding apps or database access/management.  While things like control structures might be old hat to these students, concepts like numerical integration and fitting are new (and often exciting).  
+
+In short, it's not too difficult to make a class that is meaningful for a diverse group like this.
 
 ### Philosophy and goals
 
 The course takes a "software carpentry" approach, covering several types of techniques in a way that builds "capability" rather than "proficiency" or "expertise".  For example, after taking the course, a student might not be able to sit down and independently bang out an Euler algorithm for a second-order partial differential equation, but she should be able to do some light Googling, read other people's code, and cobble together an Euler implementation that works for her particular application.  This early skills approach is part of a larger effort in the department to prepare students for meaningful research and internships as early as possible in the college career.
 
-In the Physics Major at W&J, these skills are reinforced and expanded in courses in the third and fourth year of study.
+The student learning objectives are given in the syllabus, but they are worth reproducing here:
+use basic control structures (loops and conditionals)
+- write and use functions
+- read, plot, and write data
+- fit functions/models to data and histograms
+- investigate distributions and correlations of data
+- demonstrate basic skills of large-scale data analysis and visualization using common
+file types
+- perform numerical integration and numerical solution to differential equations
+- parse, analyze, and generate text files
+- implement basic Monte Carlo techniques
+- perform basic operations using `circuitpython` on a compatible microcontroller
+
+These skills are reinforced and expanded in courses in the third and fourth year of study in the Physics Major at W&J.  Many students leverage these skills in research experiences at W&J and beyond.
 
 ### Course structure
 
