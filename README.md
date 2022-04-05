@@ -55,6 +55,7 @@ Ideally this course will meet weekly or twice weekly for a combined 180 minutes.
 - Week 5: Data visualization with `matplotlib`
 - Week 6: Text as data, forming and testing hypotheses
 - Week 7: Numerical simulations of ordinary differential equations
+- Week 8: Monte Carlo techniques
 
 ### Getting started
 
