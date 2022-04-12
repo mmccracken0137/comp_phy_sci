@@ -48,14 +48,16 @@ Ideally this course will meet weekly or twice weekly for a combined 180 minutes.
 
 ### Topics/curriculum
 
-- Week 1: Basics, computer as a \\$2k calculator
-- Week 2: Control structures
-- Week 3: Data types, containers, lists
-- Week 4: File I/O
-- Week 5: Data visualization with `matplotlib`
+- Week 0: Basics, computer as a \\$2k calculator
+- Week 1: Control structures
+- Week 2: Data types, containers, `list`, `dict`
+- Week 3: File I/O
+- Week 4: Data visualization with `matplotlib`
+- Week 5: Fitting with `scipy.optimize`
 - Week 6: Text as data, forming and testing hypotheses
 - Week 7: Numerical simulations of ordinary differential equations
 - Week 8: Monte Carlo techniques
+- Week 9: Tabular data using `pandas`
 
 ### Getting started
 
