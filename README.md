@@ -58,6 +58,7 @@ Ideally this course will meet weekly or twice weekly for a combined 180 minutes.
 - Week 7: Numerical simulations of ordinary differential equations
 - Week 8: Monte Carlo techniques
 - Week 9: Tabular data using `pandas`
+- Week 10: Microcontroller programming with `circuitpython` on the RP2040
 
 ### Getting started
 
